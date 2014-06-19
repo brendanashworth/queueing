@@ -2,9 +2,11 @@
  * This initiates the Queue. The Queue is an object
  *   that represents this entire package. It works by
  *   having a sequence of functions to call and executing
- *   them, one by one. It will never stop on its own.
+ *   them, one by one. It will never stop on its own,
+ *   you must use Queue#stop to stop it.
  *
- * @param options Object
+ * @constructor
+ * @param {object} options - The options for the Queue.
  **/
 function Queue(options) {
 	this.options = options;

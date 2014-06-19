@@ -3,7 +3,7 @@ Queueing
 
 > Queueing is a queueing library for the synchronized execution of asynchronous functions. It is a non-blocking library. [Relative XKCD](http://xkcd.com/853/).
 
-![Staticize NPM](https://nodei.co/npm/queuing.png)
+![Staticize NPM](https://nodei.co/npm/queueing.png)
 
 **Note**: this is a lightweight library, check out [Kue](http://learnboost.github.io/kue/) for a more heavyweight alternative.
 
