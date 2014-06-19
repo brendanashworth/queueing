@@ -23,7 +23,7 @@ var queue = queuing.init({
 	delayBetweenTasks: 1000
 });
 ```
-This function takes an object as its paramater. This object contains all the options for the queue. All the options are optional.
+This function takes an object as its parameter. This object contains all the options for the queue. All the options are optional.
 
 #### Push a task
 This assumes you already have initiated a queue.
