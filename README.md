@@ -1,7 +1,7 @@
-Queuing
+Queueing
 =====
 
-> Queuing is a queuing library for the synchronized execution of asynchronous functions. It is a non-blocking library. [Relative XKCD](http://xkcd.com/853/).
+> Queueing is a queueing library for the synchronized execution of asynchronous functions. It is a non-blocking library. [Relative XKCD](http://xkcd.com/853/).
 
 ![Staticize NPM](https://nodei.co/npm/queuing.png)
 
@@ -11,14 +11,14 @@ Queuing
 
 #### Install
 ```bash
-$ npm install queuing --save
+$ npm install queueing --save
 ```
 
 #### Initiate the queue
 ```javascript
-var queuing = require('queuing');
+var queueing = require('queueing');
 
-var queue = queuing.init({
+var queue = queueing.init({
 	// The delay to be ran between each task
 	delayBetweenTasks: 1000
 });
