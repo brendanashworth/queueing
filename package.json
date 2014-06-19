@@ -1,0 +1,25 @@
+{
+  "name": "queuing",
+  "version": "0.0.1",
+  "description": "A lightweight queuing system for NodeJS.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boboman13/queuing"
+  },
+  "keywords": [
+    "node",
+    "queue",
+    "queuing",
+    "api"
+  ],
+  "author": "boboman13",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boboman13/queuing/issues"
+  },
+  "homepage": "https://github.com/boboman13/queuing"
+}
